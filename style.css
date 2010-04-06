@@ -2,3 +2,26 @@ body {
   font-family: Sans;
   background: #EFEFEF;
 }
+
+h1 {
+	font-family: Serif;
+	font-size: 42pt;
+	margin: 50pt;
+	color: gray;
+}
+
+#menubar {
+	font-family: Monospace;
+	font-size: 18pt;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#menubar a {
+	color: gray;
+	text-decoration: none;
+}
+
+#menubar a:hover {
+	color: black;
+}
