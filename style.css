@@ -1,6 +1,6 @@
 body {
-  font-family: Sans;
-  background: #EFEFEF;
+	font-family: Sans;
+	background: #EFEFEF;
 }
 
 h1 {
@@ -25,3 +25,19 @@ h1 {
 #menubar a:hover {
 	color: black;
 }
+
+.code-block { 
+	background: #dcdcdc; 
+	display: block; 
+	padding: 10px; 
+	border: 1 solid black;
+}
+
+.blog-post { 
+	padding: 10pt;
+	margin: 20pt;
+	display: block; 
+	width: 40%; 
+}
+
+
