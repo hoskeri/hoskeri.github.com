@@ -1,4 +1,8 @@
-Bit of Advice
+---
+title: Bit of Advice
+layout: post
+---
+
 
 * You will find the computer much more friendly to you if you would just
   *listen* to what it has to say.

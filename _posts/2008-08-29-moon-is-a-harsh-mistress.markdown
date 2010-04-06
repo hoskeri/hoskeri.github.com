@@ -1,4 +1,8 @@
-The Moon is a Harsh Mistress - Part One
+---
+title: The Moon is a Harsh Mistress - Part One
+layout: post
+---
+
 
 [The Moon is a Harsh Mistress](http://en.wikipedia.org/wiki/The_Moon_is_a_Harsh_Mistress)
 

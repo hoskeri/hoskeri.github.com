@@ -1,4 +1,8 @@
-Package Dependencies and Relationships
+---
+title: Package Dependencies and Relationships
+layout: post
+---
+
 
 <p>There are two distinct philosophies to getting software into the users'
 hands. Adherents of either philosophy are bitterly divided by their

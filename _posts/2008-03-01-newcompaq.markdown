@@ -1,4 +1,8 @@
-New Laptop
+---
+title: New Laptop
+layout: post
+---
+
 
 Its new! Its shiny! And its mine!
 

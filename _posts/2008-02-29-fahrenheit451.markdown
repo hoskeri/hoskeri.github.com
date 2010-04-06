@@ -1,4 +1,8 @@
-Stupidification
+---
+title: Stupidification
+layout: post
+---
+
 
 I just finished reading Ray Bradbury's <a href="http://en.wikipedia.org/wiki/Fahrenheit_451">Fahrenheit 451</a>. Its my new favourite book. 
 

@@ -1,4 +1,8 @@
-Untweetable
+---
+title: Untweetable
+layout: post
+---
+
 
 Brilliant [comment](http://news.slashdot.org/comments.pl?sid=581009&cid=23775267) from [Slashdot](http://slashdot.org):
 

@@ -1,4 +1,8 @@
-On being Severus - Part One
+---
+title: On being Severus - Part One
+layout: post
+---
+
 
 Of the hundreds and hundreds of rich, detailed characters, that J K Rowling has written, Severus Snape is the most fascinating. He is, also, going by what I have heard and read several times now, one of the least understood.
 

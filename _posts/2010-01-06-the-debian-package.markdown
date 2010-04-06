@@ -1,4 +1,8 @@
-<b>The Debian Package.</b>
+---
+title: <b>The Debian Package.</b>
+layout: post
+---
+
 <p>The Apt (Advanced Packaging Tool) is immensely powerful. In fact you can
 solve <a href="http://algebraicthunk.net/~dburrows/blog/entry/package-management-sudoku/">Sudoku
 Puzzles</a>

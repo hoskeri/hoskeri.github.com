@@ -1,4 +1,8 @@
-Fear is the Mind-Killer.
+---
+title: Fear is the Mind-Killer.
+layout: post
+---
+
 
 I am reading Frank Herbert's [Dune](http://en.wikipedia.org/wiki/Dune_(novel\)). I will review it when I have finished it, but here's a beautiful sequence: Its called the **Litany Against Fear**. The characters repeat this to overcome fear and get back in control of themselves, in times of great terror. 
 
