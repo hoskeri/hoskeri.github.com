@@ -1,5 +1,5 @@
 ---
-title: <b>The Debian Package.</b>
+title: The Debian Package.
 layout: post
 ---
 
