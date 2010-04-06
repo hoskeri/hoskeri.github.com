@@ -4,8 +4,11 @@
     <link rel="stylesheet" href="/style.css">
   </head>
   <body>
-		<div class="blog-post"
-    	{{ content }}
+		<div class="blog-post">
+			<h2>{{ page.title }}</h2>
+			{{ content }}
+			<hr />
+			<div class="colophon">Posted: {{ page.date | date: "%Y/%m/%d" }}</div>
 		</div>
   </body>
 </html>
