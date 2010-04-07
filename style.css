@@ -35,13 +35,14 @@ a {
 	display: block; 
 	padding: 10px; 
 	border: 1 solid black;
+	font-size: 0.7em;
 }
 
 .blog-post { 
 	padding: 10pt;
 	margin: 20pt;
 	display: block; 
-	width: 60%; 
+	width: 50%; 
 }
 
 .colophon { 
