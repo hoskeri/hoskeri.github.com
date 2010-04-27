@@ -50,4 +50,10 @@ a {
 	font-style: italic;
 }
 
+.quote-frontpage {
+	font-size: 2.0em;
+	font-style: italic;
+	display: block;
+	width: 70%;
+}
 
