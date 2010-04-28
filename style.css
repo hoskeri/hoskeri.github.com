@@ -53,6 +53,8 @@ a {
 .quote-frontpage {
 	font-size: 2.0em;
 	font-style: italic;
+	font-family: Serif;
+	color: gray;
 	display: block;
 	width: 70%;
 }
