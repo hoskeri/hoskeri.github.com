@@ -1,5 +1,5 @@
 ---
-title: The Moon is a Harsh Mistress - Part One
+title: The Moon is a Harsh Mistress
 layout: default
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: On being Severus - Part One
+title: On being Severus
 layout: default
 ---
 
