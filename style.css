@@ -41,7 +41,11 @@ a {
 }
 
 .sidebar a {
-  color: brown;
+  color: #00ffee;
+}
+
+.sidebar a:hover {
+  color: black;
 }
 
 .footer {
