@@ -1,6 +1,6 @@
 ---
 title: Best XKCD Ever
-layout: post
+layout: default
 ---
 
 

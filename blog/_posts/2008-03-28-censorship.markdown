@@ -1,6 +1,6 @@
 ---
 title: Censorship
-layout: post
+layout: default
 ---
 
 

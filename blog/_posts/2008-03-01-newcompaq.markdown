@@ -1,6 +1,6 @@
 ---
 title: New Laptop
-layout: post
+layout: default
 ---
 
 

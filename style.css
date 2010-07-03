@@ -1,31 +1,9 @@
 body {
 	font-family: Sans;
-	background: #EFEFEF;
-}
-
-h1 {
-	font-family: Serif;
-	color: gray;
 }
 
 a {
 	text-decoration: none;
-}
-
-#menubar {
-	font-family: Monospace;
-	font-size: 18pt;
-	text-decoration: none;
-	font-weight: bold;
-}
-
-#menubar a {
-	color: gray;
-	text-decoration: none;
-}
-
-#menubar a:hover {
-	color: black;
 }
 
 .code-block { 
@@ -33,12 +11,10 @@ a {
 	display: block; 
 	padding: 10px; 
 	border: 1 solid black;
-	font-size: 0.7em;
+	font-size: 1.2em;
 }
 
 .blog-post { 
-	padding: 10pt;
-	margin: 20pt;
 	display: block; 
 	width: 50%; 
 }
@@ -48,13 +24,6 @@ a {
 	font-style: italic;
 }
 
-.quote-frontpage {
-	font-size: 2.0em;
-	font-style: italic;
-	font-family: Serif;
-	color: gray;
-	display: block;
-	width: 70%;
-	margin: 50pt;
+td {
+  vertical-align: top;
 }
-

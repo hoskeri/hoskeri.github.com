@@ -1,6 +1,6 @@
 ---
 title: Fear is the Mind-Killer.
-layout: post
+layout: default
 ---
 
 

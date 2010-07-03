@@ -1,6 +1,6 @@
 ---
 title: Melissa Theuriau
-layout: post
+layout: default
 ---
 
 

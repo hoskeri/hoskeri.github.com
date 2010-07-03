@@ -1,6 +1,6 @@
 ---
 title: How to get phone credit without paying for it immediately
-layout: post
+layout: default
 ---
 
 

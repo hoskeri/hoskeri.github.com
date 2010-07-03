@@ -1,6 +1,6 @@
 ---
 title: The Debian Package.
-layout: post
+layout: default
 ---
 
 <p>The Apt (Advanced Packaging Tool) is immensely powerful. In fact you can

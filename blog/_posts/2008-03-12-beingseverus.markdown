@@ -1,6 +1,6 @@
 ---
 title: On being Severus - Part One
-layout: post
+layout: default
 ---
 
 

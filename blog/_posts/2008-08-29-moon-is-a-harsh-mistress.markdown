@@ -1,6 +1,6 @@
 ---
 title: The Moon is a Harsh Mistress - Part One
-layout: post
+layout: default
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Package Dependencies and Relationships
-layout: post
+layout: default
 ---
 
 

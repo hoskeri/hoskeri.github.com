@@ -1,6 +1,6 @@
 ---
 title: Untweetable
-layout: post
+layout: default
 ---
 
 

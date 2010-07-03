@@ -1,6 +1,6 @@
 ---
 title: Bit of Advice
-layout: post
+layout: default
 ---
 
 
