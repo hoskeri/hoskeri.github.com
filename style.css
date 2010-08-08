@@ -41,11 +41,11 @@ a {
 }
 
 .sidebar a {
-  color: gray;
+  color: black;
 }
 
 .sidebar a:hover {
-  color: black;
+  color: blue;
 }
 
 .footer {
