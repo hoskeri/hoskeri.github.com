@@ -39,9 +39,6 @@ Programming
 
   - ORM (Object-Relation Mapping) frameworks like Storm, SQLAlchemy
 
-  - Perl modules and tools to create web applications including
-    CGI::Application, Template Toolkit, etc.
-
   - Packaging software and maintenance of such packages. (Debian and RPM
     packages)
 
