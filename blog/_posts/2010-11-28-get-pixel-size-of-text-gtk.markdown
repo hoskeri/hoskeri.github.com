@@ -18,11 +18,7 @@ v = gtk.VBox()
 
 def e_changed(e):
   l.set_text(e.get_text())
-  co = l.get_pango_context()
-  la = pango.Layout(co)
-
-  la.set_text(l.get_text())
-  print la.get_pixel_size()
+  print l.get_layout().get_pixel_size()
 
 e.connect('changed', e_changed)
 
