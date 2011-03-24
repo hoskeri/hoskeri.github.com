@@ -2,11 +2,12 @@
 
    Resume
    
-   Abhijit Hoskeri
+   Abhijit Hoskeri 
    abhijithoskeri@gmail.com
 
    +91 998 668 4203
     
+___________________________________________________________________________
 
 Objective
 =========
@@ -35,12 +36,11 @@ Programming
   - Development of both web and distributed server applications with python.
 
   - Experience with the MVC (Model-View-Controller) model of application
-    development (Catalyst, Django)
+    development (Django)
 
   - ORM (Object-Relation Mapping) frameworks like Storm, SQLAlchemy
 
-  - Packaging software and maintenance of such packages. (Debian and RPM
-    packages)
+  - Packaging software and maintenance of such packages. (Debian packages)
 
   - MySQL programming and Administration. (SQL queries, maintainence,
     replication, user management)
@@ -71,13 +71,16 @@ Operating Systems and Tools
 Programming Languages
 ---------------------
 
-  C, Perl, Python, Ruby, Scheme
+  C, Python, Ruby, Perl
 
 Work Experience
 ===============
 
 Atlantis Computing Pvt. Ltd. (Aug 2008 till present)
 ----------------------------------------------------
+
+  - Development of a system to perform de-duplication of data in a filesystem
+    in the Linux kernel.
 
   - Development of features and bug fixing on the core of the product, which is
     a python based distributed server application to manage and enhance the
@@ -122,7 +125,7 @@ DeepRoot Linux Private Limited. (Sep 2006 to July 2008)
 
   - Setting up fax servers based on the HylaFAX fax software.
 
-  - Installation of SubVersion VCSâs and Trac and helping new users use it.
+  - Installation of Subversion VCS and Trac and helping new users use it.
 
   - Wrote patches for internal use for software such as Qmail, Dovecot, etc.
     Responsible for 200 servers in my support role.
@@ -139,9 +142,10 @@ Maspro IT Solutions Private Limited (Dec 2005 to Aug 2006)
     company.
 
   - Implemented a version control system using CVS for the development teams.
-
-  - Created an automated commit-compile-build-deploy system on the above test
-    servers.  Consulted on development of a firewall/gateway security appliance
+    Created an automated commit-compile-build-deploy system on the above test
+    servers.  
+                
+        - Consulted on development of a firewall/gateway security appliance
     for one of the projects at EthicSoft.
 
   - At Resolve India, I was responsible for the maintenance of the LAN, Windows
@@ -172,8 +176,7 @@ Other Interests
 
   I play the Tabla. I have cleared the first level (Prathama) examinations on
   the Tabla. I have also given accompaniment on the Tabla at several light
-  music events. I enjoy reading novels. Some authors I like include A. J.
-  Cronin, Micheal Crichton, Robert A.  Heinlein, Alistair MacLean, etc.
+  music events. 
 
 Personal Details
 ----------------
