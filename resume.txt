@@ -6,8 +6,6 @@
    abhijithoskeri@gmail.com
 
    +91 998 668 4203
-    
-___________________________________________________________________________
 
 Objective
 =========
@@ -145,7 +143,7 @@ Maspro IT Solutions Private Limited (Dec 2005 to Aug 2006)
     Created an automated commit-compile-build-deploy system on the above test
     servers.  
                 
-        - Consulted on development of a firewall/gateway security appliance
+  - Consulted on development of a firewall/gateway security appliance
     for one of the projects at EthicSoft.
 
   - At Resolve India, I was responsible for the maintenance of the LAN, Windows
