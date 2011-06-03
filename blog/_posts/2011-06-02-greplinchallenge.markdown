@@ -30,6 +30,6 @@ palindrome s = reverse s == s
 slice string begin end = drop begin $ take (end + 1) string
 slide string l = takeWhile (\x -> length(x) > l) (map (\x -> slice string x (x + l)) [0..(length(string))])
 palindromes string n = filter palindrome (slide string n)
-allpalindromes string = concat $ map (palindromes inputString) [1..(length(string))]
+allpalindromes string = concat $ map (palindromes string) [1..(length(string))]
 answer = last $ allpalindromes inputString
 {% endhighlight %}
