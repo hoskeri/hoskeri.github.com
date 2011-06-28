@@ -125,7 +125,7 @@
   - At Resolve India, I was responsible for the maintenance of the LAN, Windows
     based terminal servers, firewall, email servers etc, as a Systems Administrator.
 
-### Educational Background
+## Educational Background
 
   - B.E. in Industrial and Production Engineering, from Basaveshwara
     Engg. College, Bagalkot, Karnataka in 2005.
@@ -140,13 +140,13 @@
 
   - Languages known: Kannada, English, Hindi
 
-### Other Interests
+## Other Interests
 
   I play the Tabla. I have cleared the first level (Prathama) examinations on
   the Tabla. I have also given accompaniment on the Tabla at several light
   music events. 
 
-### Personal Details
+## Personal Details
 --------------------  --------------------------------------------------------
 Full name             Abhijit Pralhad Hoskeri
 Father's name         Pralhad B. Hoskeri
