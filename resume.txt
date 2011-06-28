@@ -1,84 +1,68 @@
 
 
-   Resume
+# Abhijit Hoskeri - Resume
    
-   Abhijit Hoskeri 
-   abhijithoskeri@gmail.com
+    abhijithoskeri@gmail.com
+    +91 998 668 4203
+     
 
-   +91 998 668 4203
-
-Objective
-=========
+## Objective
 
   To perform challenging work that will utilize my technical and analytical
   skill on the Linux/Unix platform to create useful applications and
   technology.
 
-Summary
-=======
+## Summary
 
-  I have been working for over 4 years. Currently I am working on
-  virtualization and disk imaging applications. Before this I have worked on
+  I have been working for over 5 years. Currently I am working on
+  virtualization and storage optimization applications. Before this I have worked on
   the development and maintenance of the deepOfix Mail Server, a Linux
   distribution meant to run email servers. 
 
-Technical Skills
-================
 
-Programming
------------
+## Technical Skills
+
+### Programming Languages
+
+  C, Perl, Python, Ruby, Scheme
+
+### Development
 
   - Knowledge of UNIX system programming (System calls, basic library
     functions, networking, etc) 
-    
-  - Development of both web and distributed server applications with python.
 
-  - Experience with the MVC (Model-View-Controller) model of application
-    development (Django)
+	- Linux kernel filesystems (ext2 and ext3) and device-mapper (dm) driver internals.
+	
+	- Excellent understanding of the UNIX and Linux ecosystem:
+
+  	* Excellent knowledge of Bash scripting and automation.
+
+  	* Experience with installation and maintainence of Email server
+    	infrastructure.
+
+  	* Linux firewall, VPN and router configuration.
+
+  - Development of distributed server applications with python and erlang.
 
   - ORM (Object-Relation Mapping) frameworks like Storm, SQLAlchemy
 
-  - Packaging software and maintenance of such packages. (Debian packages)
+  - Experience with the MVC (Model-View-Controller) model of application
+    development (Catalyst, Django)
 
-  - MySQL programming and Administration. (SQL queries, maintainence,
-    replication, user management)
+  - Packaging software and maintenance of such packages. (Debian and RPM
+    packages)
 
-Operating Systems and Tools
----------------------------
+### Tools
 
-  - Knowledge of UNIX (GNU/Linux) systems internals.
-
-  - Excellent knowledge of Bash scripting and automation.
-
-  - Experience with installation and maintanance of Email server
-    infrastructure.
-
-  - Client and server experience with Jabber/XMPP, Fax, LDAP servers, etc.
-
-  - VPN installation and maintenance with OpenVPN.
-
-  - Linux firewall and router configuration.
-
-  - Version control systems including Subversion, CVS. Distributed version
-    control systems like Git, Mercurial, etc.
+  - Version control systems including Git, Mercurial, Subversion, CVS.
 
   - Build software including make, GNU Autoconf.
 
   - Project management with Trac, Bugzilla, Request-Tracker
 
-Programming Languages
----------------------
+## Work Experience
 
-  C, Python, Ruby, Perl
-
-Work Experience
-===============
-
-Atlantis Computing Pvt. Ltd. (Aug 2008 till present)
-----------------------------------------------------
-
-  - Development of a system to perform de-duplication of data in a filesystem
-    in the Linux kernel.
+### Atlantis Computing Pvt. Ltd. (Aug 2008 till present)
 
   - Development of features and bug fixing on the core of the product, which is
     a python based distributed server application to manage and enhance the
@@ -104,8 +88,7 @@ Atlantis Computing Pvt. Ltd. (Aug 2008 till present)
     This involves installation and configuration of vmware ESX servers and the
     Linux based virtual machines on which the product runs.
 
-DeepRoot Linux Private Limited. (Sep 2006 to July 2008)
--------------------------------------------------------
+### DeepRoot Linux Private Limited. (Sep 2006 to July 2008)
 
   - Support, development and maintenance of the deepOfix Mail Server, a
     GNU/Linux distribution built to run email services.
@@ -123,13 +106,12 @@ DeepRoot Linux Private Limited. (Sep 2006 to July 2008)
 
   - Setting up fax servers based on the HylaFAX fax software.
 
-  - Installation of Subversion VCS and Trac and helping new users use it.
+  - Installation of SubVersion VCS's and Trac and helping new users use it.
 
   - Wrote patches for internal use for software such as Qmail, Dovecot, etc.
     Responsible for 200 servers in my support role.
 
-Maspro IT Solutions Private Limited (Dec 2005 to Aug 2006)
-----------------------------------------------------------
+### Maspro IT Solutions Private Limited (Dec 2005 to Aug 2006)
 
   - Worked as an on-site engineer performing Systems Administration tasks,
     first at EthicSoft, Jayanagar in Bangalore and then at Resolve India, a
@@ -139,20 +121,15 @@ Maspro IT Solutions Private Limited (Dec 2005 to Aug 2006)
     services, firewalls, and the test servers for various projects at the
     company.
 
-  - Implemented a version control system using CVS for the development teams.
-    Created an automated commit-compile-build-deploy system on the above test
-    servers.  
-                
-  - Consulted on development of a firewall/gateway security appliance
-    for one of the projects at EthicSoft.
+  - Implemented a version control system using CVS. Created an automated
+	  commit-compile-build-deploy system on the above test servers.  Consulted on
+	  development of a firewall/gateway security appliance for one of the projects
+	  at EthicSoft.
 
   - At Resolve India, I was responsible for the maintenance of the LAN, Windows
-    based terminal servers, file servers, etc.
+    based terminal servers, firewall, email servers etc, as a Systems Administrator.
 
-  - Also responsible for GNU/Linux based email services and firewalls.
-
-Educational Background
-----------------------
+### Educational Background
 
   - I am a B.E. in Industrial and Production Engineering, from Basaveshwara
     Engg. College, Bagalkot, Karnataka in 2005.
@@ -169,29 +146,26 @@ Educational Background
   - After graduation, I took a six month course in Unix programming at Uttara,
     at Rajajinagar in Bangalore.
 
-Other Interests
----------------
+### Other Interests
 
   I play the Tabla. I have cleared the first level (Prathama) examinations on
   the Tabla. I have also given accompaniment on the Tabla at several light
   music events. 
 
-Personal Details
-----------------
-    Full name: Abhijit Pralhad Hoskeri
-    Father's name: Pralhad B. Hoskeri
-    Date of birth: 14th November, 1983
-    Email: abhijithoskeri@gmail.com
-    Cell phone: 99866 84203
-    Home phone: 0836 2440927
-    Current address: 199, 8th Main, Seethappa colony
-                   New Thippasandra, Bangalore
-    Permanent address: C/o P. B. Hoskeri, 'Banashankari',
-                     Sanmati Marg, Dharwad 580001.
-    Languages known: Kannada, English, Hindi
+### Personal Details
+      Full name: Abhijit Pralhad Hoskeri
+      Father's name: Pralhad B. Hoskeri
+      Date of birth: 14th November, 1983
+      Email: abhijithoskeri@gmail.com
+      Cell phone: 99866 84203
+      Home phone: 0836 2440927
+      Current address: 199, 8th Main, Seethappa colony
+                       New Thippasandra, Bangalore
+      Permanent address: C/o P. B. Hoskeri, 'Banashankari',
+                         Sanmati Marg, Dharwad 580001.
+      Languages known: Kannada, English, Hindi
 
-Declaration
------------
+### Declaration
 
   I hereby submit that the information given above is correct to the best of my
   knowledge and belief.
