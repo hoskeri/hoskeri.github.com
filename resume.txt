@@ -68,14 +68,14 @@
     of incoming data to eliminate redundant block writes and improve performance
     of virtual machines by 500%.
 
-  - Development of features and bug fixing on the core of the product, which is
-    a python based distributed server application to manage and enhance the
-    performance of virtual machine disk images.
+  - Development of features and bug fixing on 'Atlantis ILIO', which is
+    a distributed server application to manage and enhance the performance of
+    virtual machine disk images. This product is implemented in python.
 
-  - Worked on converting the product from a centralized architecture to a distributed
+  - Worked on converting ILIO from a centralized architecture to a distributed
     architecture to support larger scale of users and workload.
 
-  - Built a Linux live-cd based installer for the product. This involved
+  - Built a Linux live-cd based installer for ILIO. This involved
     development of modules for setting up VMware ESX server and configuration
     of virtual machines and applications. The installer was built as a python
     application which itself ran on a virtual machine.
@@ -85,27 +85,28 @@
     commands sent over a TCP/IP socket.
 
   - Implemented a high availability solution for failover of services provided
-    by the product using heartbeat, DRBD (Distributed Replicated Block Device)
+    by ILIO using heartbeat, DRBD (Distributed Replicated Block Device)
     and OCFS2 (Oracle Clustered File System)
 
 ### DeepRoot Linux Private Limited. (Sep 2006 to July 2008)
 
-  - Support, development and maintenance of the deepOfix Mail Server, a
-    GNU/Linux distribution built to run email services.
+  - Development and maintenance of the deepOfix Mail Server, a GNU/Linux
+    distribution built to run email services.
 
-  - Rebuilt the entire installer and package set over a period of six months to
-    make the entire system more manageable and upgradable.
+  - Rebuilt the entire installer and package set to make the entire system more
+    manageable and upgradable.
 
   - Fixed bugs and added features to various open source software used by the
     product. and contributed them up-stream.
 
   - Headed the support team, comprising four people to provide incident support
     and customizations for the above product and allied services. Responsible for
-    200 servers in my support role.
-
-  - Support and maintenance of OpenVPN VPN installations.
+    over 200 servers in my support role.
 
   - Wrote patches for internal use for software such as Qmail, Dovecot, etc.
+
+  - Designed and comissioned custom email server architectures as per
+    requirements of customers.
 
 ### Maspro IT Solutions Private Limited (Dec 2005 to Aug 2006)
 
@@ -130,10 +131,9 @@
   - B.E. in Industrial and Production Engineering, from Basaveshwara
     Engg. College, Bagalkot, Karnataka in 2005.
 
-  - Participated, and won prizes in Quiz competitions both at the
-    college level as well at inter- collegiate competitions. I represented my
-    engineering college at the sixth VTU Youth Festival held at BIET, Davanagere, in
-    2005.
+  - Participated, and won prizes in Quiz competitions both at the college level
+    as well at inter- collegiate competitions. I represented my engineering
+    college at the sixth VTU Youth Festival held at BIET, Davanagere, in 2005.
 
   - After graduation, I took a six month course in 'Advanced Unix Programming' at Uttara,
     at Rajajinagar in Bangalore.
