@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: homepage
 ---
-<h2>{{ site.categories.blog.first.title }}</h2>
-{{ site.categories.blog.first.content }}
 
-
+<a class="box" href="/"> <h1>aph.aa.am</h1>Hi. I am Abhijit Hoskeri. I am a software developer living in Bangalore, India.</a> 
+{% for post in site.categories.blog %}
+   <a class="box" href="{{ post.url }}"> {{ post.title }}</a> 
+{% endfor %}
+	

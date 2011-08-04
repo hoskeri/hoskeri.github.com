@@ -3,6 +3,23 @@ body {
   padding: 10px;
 }
 
+.box {
+    display: inline-table;
+    width: 15em;
+    height: 15em;
+    margin: 0.2em;
+    padding: 1em;
+} 
+
+a.box {
+		color: black;
+		font-weight: bold;
+}
+
+a.box:hover {
+	color: blue;	
+}
+
 a {
 	text-decoration: none;
 }
@@ -21,41 +38,4 @@ a {
   font-size: 0.9em;
 }
 
-.colophon { 
-	font-size: 0.8em;
-	font-style: italic;
-}
-
-.sidebar {
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
-  -khtml-border-radius: 10px;
-  border-radius: 10px;
-  display: block;
-  padding: 10px;
-  font-size: 1.0em;
-  font-weight: bold;
-  color: white;
-  background: #00cc66;
-  width: 60%;
-}
-
-.sidebar a {
-  color: black;
-}
-
-.sidebar a:hover {
-  color: blue;
-}
-
-.footer {
-  width: 60%;
-  font-size: 0.8em;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  -khtml-border-radius: 5px;
-  border-radius: 5px;
-  background: #ffffcc;
-  padding: 10px;
-}
 
