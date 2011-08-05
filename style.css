@@ -1,6 +1,7 @@
 body {
 	font-family: Sans;
   padding: 10px;
+	background-image: url("/background.png");
 }
 
 .box {
@@ -9,15 +10,12 @@ body {
     height: 15em;
     margin: 0.2em;
     padding: 1em;
+  	background-image: url("/transparent.png");
 } 
 
-a.box {
-		color: black;
-		font-weight: bold;
-}
-
-a.box:hover {
-	color: blue;	
+.box a {
+	color: white;
+	font-weight: bold;
 }
 
 a {
