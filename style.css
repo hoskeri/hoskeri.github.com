@@ -11,11 +11,16 @@ body {
     margin: 0.2em;
     padding: 1em;
   	background-image: url("/transparent.png");
+		color: white;
 } 
 
-.box a {
+a .box {
 	color: white;
 	font-weight: bold;
+}
+
+.box:hover {
+  	background-image: url("/transparent-light.png");
 }
 
 a {
@@ -34,6 +39,8 @@ a {
 	display: block; 
 	width: 60%; 
   font-size: 0.9em;
+	background: white;
+	padding: 2em;
 }
 
 
