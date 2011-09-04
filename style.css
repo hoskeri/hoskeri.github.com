@@ -1,30 +1,24 @@
 body {
-	font-family: Sans;
+	font-family: Serif;
   padding: 10px;
-	background-image: url("/background.png");
+	width: 60%;
 }
 
-.box {
-    display: inline-table;
-    width: 15em;
-    height: 15em;
-    margin: 0.2em;
-    padding: 1em;
-  	background-image: url("/transparent.png");
-		color: white;
-} 
-
-a .box {
-	color: white;
-	font-weight: bold;
-}
-
-.box:hover {
-  	background-image: url("/transparent-light.png");
+h1 {
+	display: block;
+	padding: 0.5em;
+	margin: 0.1em;
+	background: black;
+	color: orange;
 }
 
 a {
 	text-decoration: none;
+	margin: 0.1em;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 .code-block { 
@@ -34,13 +28,4 @@ a {
 	border: 1 solid black;
 	font-size: 0.9em;
 }
-
-.blog-post { 
-	display: block; 
-	width: 60%; 
-  font-size: 0.9em;
-	background: white;
-	padding: 2em;
-}
-
 

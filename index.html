@@ -1,9 +1,7 @@
 ---
-layout: homepage
+layout: default
 ---
-<a class="box" href="/"> <h1>aph.aa.am</h1>Hi. I am Abhijit Hoskeri. I am a software developer living in Bangalore, India.</a>
-<a class="box" href="http://github.com/hoskeri">My Github profile</a>
 {% for post in site.categories.blog %}
-	<a href="{{ post.url }}"> <div class="box">{{ post.title }}</div></a>
+	<a href="{{ post.url }}"><div>{{ post.title }}</div></a>
 {% endfor %}
 	
