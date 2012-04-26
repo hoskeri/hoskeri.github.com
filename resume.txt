@@ -3,8 +3,7 @@
 # Abhijit Hoskeri - Resume
    
     abhijithoskeri@gmail.com
-    +91 998 668 4203
-     
+    (408) 680 6041
 
 ## Objective
 
@@ -14,7 +13,7 @@
 
 ## Summary
 
-  I have been working for over 5 years. Currently I am working on
+  I have been working for over 6 years. Currently I am working on
   virtualization and storage optimization applications. Before this I have
   worked on the development and maintenance of the deepOfix Mail Server, a
   Linux distribution meant to run email servers. 
@@ -41,7 +40,7 @@
 
     * Linux firewall, VPN and router configuration.
 
-  - Development of distributed server applications with python and erlang.
+  - Development of distributed server applications with python.
 
   - ORM (Object-Relation Mapping) frameworks like Storm.
 
@@ -54,8 +53,6 @@
 ### Tools
 
   - Version control systems including Git, Mercurial, Subversion, CVS.
-
-  - Build software including make, GNU Autoconf.
 
   - Project management with Trac, Bugzilla, Request-Tracker, Jira, etc.
 
@@ -126,39 +123,9 @@
   - At Resolve India, I was responsible for the maintenance of the LAN, Windows
     based terminal servers, firewall, email servers etc, as a Systems Administrator.
 
-## Educational Background
+## Education Background
 
   - B.E. in Industrial and Production Engineering, from Basaveshwara
     Engg. College, Bagalkot, Karnataka in 2005.
 
-  - Participated, and won prizes in Quiz competitions both at the college level
-    as well at inter- collegiate competitions. I represented my engineering
-    college at the sixth VTU Youth Festival held at BIET, Davanagere, in 2005.
-
-  - After graduation, I took a six month course in 'Advanced Unix Programming' at Uttara,
-    at Rajajinagar in Bangalore.
-
-  - Languages known: Kannada, English, Hindi
-
-## Other Interests
-
-  I play the Tabla. I have cleared the first level (Prathama) examinations on
-  the Tabla. I have also given accompaniment on the Tabla at several light
-  music events. 
-
-## Personal Details
---------------------  --------------------------------------------------------
-Full name             Abhijit Pralhad Hoskeri
-Father's name         Pralhad B. Hoskeri
-Date of birth         14th November, 1983
-Email                 abhijithoskeri@gmail.com
-Cell phone            99866 84203
-Home phone            0836 2440927
---------------------  --------------------------------------------------------
-
-### Declaration
-
-  I hereby submit that the information given above is correct to the best of my
-  knowledge and belief.
-
-
+  - Six month course in 'Advanced Unix Programming' at Uttara, Bangalore
