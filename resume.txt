@@ -22,7 +22,7 @@
 
 ### Programming Languages
 
-  C, Perl, Python, Ruby, Scheme
+  C, Perl, Python, Ruby
 
 ### Development
 
