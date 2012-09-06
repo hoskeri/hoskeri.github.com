@@ -5,18 +5,6 @@
     abhijithoskeri@gmail.com
     (408) 680 6041
 
-## Objective
-
-  To perform challenging work that will utilize my technical and analytical
-  skill on the Linux/Unix platform to create useful applications and
-  technology.
-
-## Summary
-
-  I have been working for over 6 years. Currently I am working on
-  virtualization and storage optimization applications. Before this I have
-  worked on the development and maintenance of the deepOfix Mail Server, a
-  Linux distribution meant to run email servers. 
 
 ## Technical Skills
 
@@ -26,11 +14,22 @@
 
 ### Development
 
-  - Knowledge of UNIX system programming (System calls, basic library
-    functions, networking, etc) 
 
   - Linux kernel filesystems (ext2 and ext3) and device-mapper (dm) driver internals.
   
+  - Development of distributed server applications with python.
+
+  - ORM (Object-Relation Mapping) frameworks like Storm.
+
+  - Experience with the MVC (Model-View-Controller) model of application
+    development (Django, Sinatra).
+
+  - Knowledge of UNIX system programming (System calls, basic library
+    functions, networking, etc) 
+ 
+  - Packaging software and maintenance of such packages. (Debian and RPM
+    packages)
+
   - Excellent understanding of the UNIX and Linux ecosystem
 
     * Excellent knowledge of Bash scripting and automation.
@@ -40,15 +39,6 @@
 
     * Linux firewall, VPN and router configuration.
 
-  - Development of distributed server applications with python.
-
-  - ORM (Object-Relation Mapping) frameworks like Storm.
-
-  - Experience with the MVC (Model-View-Controller) model of application
-    development (Django, Sinatra).
-
-  - Packaging software and maintenance of such packages. (Debian and RPM
-    packages)
 
 ### Tools
 
@@ -60,26 +50,21 @@
 
 ### Atlantis Computing Pvt. Ltd. (Aug 2008 till present)
 
-  - Worked on development of a deduplicating filesystem based on ext2/ext3
-    kernel module in Linux. The ext2 filesystem was modified to perform deduplication
-    of incoming data to eliminate redundant block writes and improve performance
-    of virtual machines by 500%.
+  - Developed an inline deduplicating filesystem based on ext2/ext3 kernel
+    module in Linux. The ext2 filesystem was modified to perform deduplication of
+    incoming data to eliminate redundant block writes and improve performance of
+    virtual machines by 500%.
 
-  - Development of features and bug fixing on 'Atlantis ILIO', which is
-    a distributed server application to manage and enhance the performance of
-    virtual machine disk images. This product is implemented in python.
+  - Developed management and deployment feature in 'Atlantis ILIO' virtual appliance
+    in python.
 
   - Worked on converting ILIO from a centralized architecture to a distributed
     architecture to support larger scale of users and workload.
 
-  - Built a Linux live-cd based installer for ILIO. This involved
-    development of modules for setting up VMware ESX server and configuration
-    of virtual machines and applications. The installer was built as a python
-    application which itself ran on a virtual machine.
+  - Built a Linux live-cd based installation mechanism for ILIO.
 
-  - Wrote a Windows MFC application to monitor and report health of Virtual
-    Machines. This application runs on user virtual machines and responds to
-    commands sent over a TCP/IP socket.
+  - Developed a Windows MFC application to monitor and report health of Virtual
+    Machines. 
 
   - Implemented a high availability solution for failover of services provided
     by ILIO using heartbeat, DRBD (Distributed Replicated Block Device)
@@ -90,38 +75,24 @@
   - Development and maintenance of the deepOfix Mail Server, a GNU/Linux
     distribution built to run email services.
 
-  - Rebuilt the entire installer and package set to make the entire system more
-    manageable and upgradable.
-
   - Fixed bugs and added features to various open source software used by the
     product. and contributed them up-stream.
+
+  - Wrote patches for internal use for software such as Qmail, Dovecot, etc.
+
+  - Rebuilt the entire installer and package set to make the entire system more
+    manageable and upgradable. 
 
   - Headed the support team, comprising four people to provide incident support
     and customizations for the above product and allied services. Responsible for
     over 200 servers in my support role.
 
-  - Wrote patches for internal use for software such as Qmail, Dovecot, etc.
-
   - Designed and comissioned custom email server architectures as per
     requirements of customers.
 
 ### Maspro IT Solutions Private Limited (Dec 2005 to Aug 2006)
+  - Worked as an on-site engineer deploying and managing infrastructure.
 
-  - Worked as an on-site engineer performing Systems Administration tasks,
-    first at EthicSoft, Jayanagar in Bangalore and then at Resolve India, a
-    division of Tally Solutions.
-
-  - At EthicSoft, was responsible for the corporate LAN, including email
-    services, firewalls, and the test servers for various projects at the
-    company.
-
-  - Implemented a version control system using CVS. Created an automated
-    commit-compile-build-deploy system on the above test servers.  Consulted on
-    development of a firewall/gateway security appliance for one of the projects
-    at EthicSoft.
-
-  - At Resolve India, I was responsible for the maintenance of the LAN, Windows
-    based terminal servers, firewall, email servers etc, as a Systems Administrator.
 
 ## Education Background
 
