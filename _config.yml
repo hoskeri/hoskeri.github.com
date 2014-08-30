@@ -1,0 +1,11 @@
+# Site settings
+title: Hack A Minute.
+email: abhijithoskeri@gmail.com
+description: >
+    Lets take things apart and look.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://hackaminute.hoskeri.net" # the base hostname & protocol for your site
+github_username:  hoskeri
+
+# Build settings
+markdown: kramdown
