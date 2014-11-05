@@ -3,8 +3,8 @@ title: Hack A Minute.
 email: abhijithoskeri@gmail.com
 description: >
     Lets take things apart and look.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hoskeri.net" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://hoskeri.net"
 github_username:  hoskeri
 
 # Build settings
